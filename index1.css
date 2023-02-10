@@ -1,0 +1,139 @@
+.main{
+    background-color: grey;
+}
+.main1{
+    border: 5px solid red;
+    border-radius: 10px;
+    width: 250px;
+    height:100px;
+    text-align: center;
+    background-color: white;
+    margin-top: 10px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: purple;
+    text-shadow: purple;
+    box-shadow :5px 10px purple;
+    
+
+}
+.main2{
+    border:5px solid green;
+}
+.submain1{
+    display:flex;
+}
+.submain2{
+    display:flex;
+}
+
+.box2{
+    border:5px solid red;
+    box-shadow: 5px 10px purple;
+    
+    width:150px;
+    padding-top: 30px;
+    padding-left:40px;
+    background-color: white;
+    float: right;
+    margin-left: 650px;
+    border-radius: 10px;
+
+}
+.box1{
+    border:5px solid red;
+    box-shadow: 5px 10px purple;
+    color: purple;
+    text-shadow: 5px;
+    width:150px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-shadow: 2px purple;
+
+}
+.box3{
+    border:5px solid red;
+    box-shadow: 5px 10px purple;
+    width:150px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    color: purple;
+    margin-top: 60px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+.box4{
+    border:5px solid red;
+    box-shadow: 5px 10px purple;
+    width:200px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 650px;
+    color:purple;
+    margin-top:60px;
+    margin-bottom: 20px;
+
+}
+.submain3{
+    display:flex;
+    
+}
+.main3{
+    border:5px solid purple;
+    text-align: center;
+    width:fit-content;
+    align-content: center;
+    margin-left: 150px;
+    background-color: green;
+    
+}
+.box5{
+    border:3px solid green;
+    background-color:rgb(240, 240, 159);
+}
+.box6{
+    border:3px solid green;
+    background-color:rgb(240, 240, 159);
+}
+.submain4{
+    border:3px solid green;
+    background-color:rgb(240, 240, 159);
+    font-size: small;
+    
+}
+.float{
+    border: 5px solid red;
+    border-radius: 10px;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    padding-left: 10PX;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    color: red;
+    background-color: greenyellow;
+    position: fixed;
+    left:0;
+    right:0;
+    margin:0 auto;
+    top:300px;
+    bottom: 100px;
+    
+}
+.one{
+    float: left;
+    font-size: large;
+}
+.two{
+    float:right;
+    font-size: small;
+}
